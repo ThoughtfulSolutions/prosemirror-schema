@@ -1,23 +1,23 @@
 {
-  "name": "@chatwoot/prosemirror-schema",
+  "name": "@leadrobot/prosemirror-schema",
   "version": "1.0.17",
-  "description": "Schema setup for using prosemirror in chatwoot. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
+  "description": "Schema setup for using prosemirror in leadrobot. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c",
     "prepare": "husky install"
   },
-  "repository": "git+https://github.com/chatwoot/prosemirror-schema.git",
+  "repository": "git+https://github.com/leadrobot/prosemirror-schema.git",
   "files": [
     "src/*"
   ],
-  "author": "Nithin David <nithin@chatwoot.com>",
+  "author": "Nithin David <nithin@leadrobot.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chatwoot/prosemirror-schema/issues"
+    "url": "https://github.com/leadrobot/prosemirror-schema/issues"
   },
-  "homepage": "https://github.com/chatwoot/prosemirror-schema#readme",
+  "homepage": "https://github.com/leadrobot/prosemirror-schema#readme",
   "dependencies": {
     "markdown-it-sup": "^1.0.0",
     "prosemirror-commands": "^1.1.4",
